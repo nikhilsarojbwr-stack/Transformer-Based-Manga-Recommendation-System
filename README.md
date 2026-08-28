@@ -1,8 +1,9 @@
 # 📚 Transformer-Based Manga Recommendation System
 
 An AI-powered manga recommendation system built using **Transformer embeddings + FAISS vector search**, with real-time metadata enrichment via AniList API.
-
+App Live link : https://transformer-based-manga-recommendation-system-9e6onltmgyvyt2nx.streamlit.app/
 ---
+
 
 ## 🚀 Overview
 
