@@ -178,9 +178,8 @@ class ModelLoader:
     def load_model() -> SentenceTransformer:
         """Try primary model, then fallback options."""
         candidates = [
-            "BAAI/bge-large-en-v1.5",
-            "all-MiniLM-L6-v2",
-            "paraphrase-MiniLM-L3-v2"
+            "BAAI/bge-large-en-v1.5"
+            
         ]
         for name in candidates:
             try:
